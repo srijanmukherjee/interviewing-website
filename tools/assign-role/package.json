@@ -1,0 +1,14 @@
+{
+  "name": "assign-role",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.1",
+    "jotai": "^2.4.1"
+  }
+}

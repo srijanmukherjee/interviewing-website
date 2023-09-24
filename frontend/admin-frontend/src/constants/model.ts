@@ -1,0 +1,4 @@
+export const DEFAULT_WORD_LIMIT = 1000;
+export const DEFAULT_TIME_LIMIT = 5000;
+export const DEFAULT_MEMORY_LIMIT = 256000;
+export const DEFAULT_DURATION_LIMIT = 5;
